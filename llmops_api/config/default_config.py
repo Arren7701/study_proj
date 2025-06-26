@@ -1,0 +1,11 @@
+DEFAULT_CONFIG = {
+    #wtf
+    "WTF_CSRF_ENABLED": False,
+
+    #SQLAlchamy
+    "SQLALCHEMY_DATABASE_URI":"",
+    "SQLALCHEMY_POOL_SIZE":30,
+    "SQLALCHEMY_ECHO":False,
+    "SQLALCHEMY_POOL_RECYCLE":3600
+
+}

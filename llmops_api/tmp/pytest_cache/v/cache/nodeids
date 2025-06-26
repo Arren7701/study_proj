@@ -1,0 +1,6 @@
+[
+  "test/internal/test_app_handler.py::TestHandler::test_completion[None]",
+  "test/internal/test_app_handler.py::TestHandler::test_completion[\\u4f60\\u597d\\uff0c\\u4f60\\u662f\\u8c01\\uff1f]",
+  "test/internal/test_app_handler.py::TestHandler::test_completion_with_request[None]",
+  "test/internal/test_app_handler.py::TestHandler::test_completion_with_request[\\u4f60\\u662f\\u8c01\\uff1f]"
+]
